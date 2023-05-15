@@ -1,0 +1,11 @@
+#categoryGrid {
+margin: 0px 5%
+display: grid;
+grid-template-rows: 300px 300px 300px
+grid-template-columns: 1fr 1fr 1fr
+grid-template-areas:
+"bookcases bedroom patio"
+"coaches coaches patio" 
+"desks desks desks"
+;
+}
