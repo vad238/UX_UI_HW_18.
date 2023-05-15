@@ -1,0 +1,10 @@
+.item. {
+  grid-are: MyAre;
+  }
+  .grid-contaier {
+  display:grid;
+  grid-template-areas: ' myArea myArea myArea myArea myArea 
+  
+  
+  
+  
